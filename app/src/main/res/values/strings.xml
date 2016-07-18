@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">logossolucoes</string>
+
+    <!--Título telas-->
+    <string name="tela_listagem_filmes">Meus Filmes</string>
+    <string name="tela_detalhe_filme">Detalhes do Filme</string>
+    <string name="tela_cadastro_filme">Cadastro de Filme</string>
+
+    <!--Labels-->
+    <string name="label_titulo_filme">Título:</string>
+    <string name="label_ano_filme">Ano:</string>
+    <string name="label_avaliacao_filme">Avaliação:</string>
+    <string name="label_genero_filme">Gênero:</string>
+    <string name="label_diretor_filme">Diretor:</string>
+    <string name="label_escritor_filme">Escritor:</string>
+    <string name="label_atores_filme">Atores:</string>
+    <string name="label_resenha_filme">Resenha:</string>
+    <string name="label_linguas_filme">Línguas:</string>
+    <string name="label_paises_filme">Países:</string>
+    <string name="label_premios_filme">Prêmios:</string>
+    <string name="label_metascore_filme">Metascore:</string>
+    <string name="label_imdbrating_filme">IMDB Rating:</string>
+    <string name="label_imdvote_filme">IMDB Votes:</string>
+    <string name="label_lancamento_filme">Lançamento:</string>
+    <string name="label_duracao_filme">Duração:</string>
+
+    <!--Botões-->
+    <string name="botao_ok">OK, entendi</string>
+    <string name="botao_cadastrar">Cadastrar</string>
+
+    <!--Titulos-->
+    <string name="erro_titulo">Erro</string>
+    <string name="aguarde_titulo">Aguarde</string>
+
+    <!--Mensagens-->
+    <string name="erro_mensagem_internet">Você está desconectado ou sua internet está ruim.\nPor favor, verifique sua conexão e\ntente novamente mais tarde.</string>
+    <string name="sem_filmes_msg">Não ha filmes cadastrados.</string>
+    <string name="erro_mensagem_generica">Houve um problema ao processar sua solicitação\nTente novamente mais tarde.</string>
+    <string name="erro_sem_resultados">Filme não encontrado.</string>
+    <string name="erro_filme_nao_selecionado">Selecione um filme da lista para cadastrá-lo.</string>
+    <string name="aguarde_msg">Cadastrando...</string>
+
+    <!--Hints-->
+    <string name="hint_busca_nome_filme">Digite o nome do filme</string>
+
+    <!--WebService-->
+    <string name="url_webservice">http://www.omdbapi.com/</string>
+
+</resources>
